@@ -1,0 +1,324 @@
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Rex\Lens - Holder Assy MC\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\C#\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\C#\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\C#\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\C#\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\C#\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\C#\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\C#\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\C#\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\C#\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\C#\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\C#\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C#\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C# - 解除指標bug\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\0729-1 C# - 解除指標bug\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0729-1 C# - 解除指標bug\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0729-1 C# - Holder 判斷改為1盤\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0808 C# - Holder Tray判斷改為1盤   Lens Tray 新增可選擇不需要ㄉTRAY盤\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0812 介面修改\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\0812 介面修改\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\0812 介面修改\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\0812 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0812 介面修改\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0814 介面修改\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\0814 介面修改\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\0814 介面修改\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\0814 介面修改\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0814 介面修改\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\0825  LENS 判斷\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\0825  LENS 判斷\Lens_Holder\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\0828 9點校正\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\0828 9點校正\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\0828 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\0828 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\0828 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Lens_Holder.exe.config
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Interop.CognexToolGroup.dll
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.ResolveComReference.cache
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.exe
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.pdb
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Lens_Holder.exe
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Lens_Holder.pdb
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.dll
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.dll
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.Blob.xml
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro.PMAlign.xml
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.csprojResolveAssemblyReference.cache
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.Form1.resources
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.frmOffset.resources
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.frmTB.resources
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.Properties.Resources.resources
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\casedefect.frmSplash.resources
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\casedefect.frmLogin.resources
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\casedefect.frmUserConfig.resources
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\casedefect.frmUserNew.resources
+D:\Jabil\00__Work\09-Lens & Holder\software\0901 9點校正\Lens_Holder\obj\x86\Debug\Lens_Holder.csproj.GenerateResource.Cache
